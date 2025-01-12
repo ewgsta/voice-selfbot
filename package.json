@@ -1,0 +1,25 @@
+{
+  "name": "voice-selfbot",
+  "version": "1.0.0",
+  "description": "Discord sunucularında ses kanallarında 7/24 aktif kalarak level kasan selfbot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ewgsta/voice-selfbot.git"
+  },
+  "author": {
+    "name": "ewgsta",
+    "discord": "ewgstawq"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.1.4",
+    "@discordjs/voice": "^0.17.0",
+    "colors": "^1.4.0"
+  }
+}
+
+

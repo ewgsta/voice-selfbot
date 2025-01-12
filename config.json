@@ -1,0 +1,7 @@
+{
+    "TOKEN": "discord token",
+    "SUNUCU_ID": "server id",
+    "SES_KANAL_ID": "channel id",
+    "DNS_ENABLED": true,
+    "CUSTOM_DNS": "8.8.8.8"
+}
