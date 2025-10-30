@@ -29,7 +29,7 @@ client.on('ready', async () => {
     console.log(colors.red(`Giriş yapıldı, DNS kullanılmıyor.`));
   }
 
-  console.log(colors.magenta(`Yapımcı: `) + colors.white(`ewgstawq`));
+  console.log(colors.magenta(`Yapımcı: `) + colors.white(`ewgsta`));
   console.log(colors.green(`Github: `) + colors.white(`https://github.com/ewgsta \n`));
 
   try {
@@ -94,5 +94,6 @@ client.on('ready', async () => {
     console.error(centerText(colors.red('Ses kanalını girerken hata oluştu:')), error);
   }
 });
+
 
 client.login(TOKEN);
